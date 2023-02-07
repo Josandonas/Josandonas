@@ -7,7 +7,7 @@
 
 - 💬 Ask me about **Tematics of Philosophy and whatever problems offer in for my, I resolve 😉!**
 
-- 📫 How to reach me **josandonas@outlook.com**
+- 📫 How to reach me **jsandonas@outlook.com**
 
 - ⚡ Fun fact **Poetry writer and passionate about boxing and traveling**
 
