@@ -1,19 +1,23 @@
 <h1 align="center">Hi 👋, I'm José Sandonas</h1>
-<h3 align="center">Defender of the idea "Continuous self-improvement". My strong point is my persistence until I fulfill what is passed to me, but of course with common sense, because, I know that there is a next challenge ahead of me.</h3>
+<h3 align="left">Defender of the idea "Continuous self-improvement". My strong point is my persistence until I fulfill what is passed to me, but of course with common sense, because, I know that there is a next challenge ahead of me.</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=josandonas&label=Profile%20views&color=0e75b6&style=flat" alt="josandonas" /> </p>
+
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=josandonas" alt="josandonas" /></a> </p>
 
 - 🌱 I’m currently learning **Go, Kubernets, English, Mandarim and Angular**
 
 - 💬 Ask me about **Tematics of Philosophy and whatever problems offer in for my, I resolve 😉!**
 
-- 📫 How to reach me **jsandonas@outlook.com**
+- 📫 How to reach me **josandonas@outlook.com**
 
 - ⚡ Fun fact **Poetry writer and passionate about boxing and traveling**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://linkedin.com/in/https://www.linkedin.com/in/jos%c3%a9-manuel-carmen-sandonas-953861188/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/jos%c3%a9-manuel-carmen-sandonas-953861188/" height="30" width="40" /></a>
+<a href="https://instagram.com/@jomanu_san" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="@jomanu_san" height="30" width="40" /></a>
+<a href="https://discord.gg/#3231" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="#3231" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
@@ -22,3 +26,5 @@
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=josandonas&show_icons=true&locale=en&layout=compact" alt="josandonas" /></p>
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=josandonas&show_icons=true&locale=en" alt="josandonas" /></p>
+
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=josandonas&" alt="josandonas" /></p>
