@@ -43,23 +43,11 @@ Full Stack Developer • DevOps Mindset
 ## 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://SEU_DOMINIO/github-stats?username=josandonas"/>
-</p>
-
-<p align="center">
   <img src="https://streak-stats.demolab.com?user=josandonas&theme=tokyonight&hide_border=true"/>
 </p>
 
 <p align="center">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=josandonas&theme=tokyo-night&hide_border=true"/>
-</p>
-
----
-
-## 🔥 Streak Stats
-
-<p align="center">
-  <img src="https://streak-stats.demolab.com?user=josandonas&theme=tokyonight&hide_border=true"/>
 </p>
 
 ---
