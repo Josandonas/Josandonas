@@ -43,16 +43,15 @@ Full Stack Developer • DevOps Mindset
 ## 📊 GitHub Stats
 
 <p align="center">
-  <img 
-    height="160em" 
-    src="https://github-readme-stats.vercel.app/api?username=josandonas&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true"
-    onerror="this.src='https://github-readme-streak-stats.herokuapp.com/?user=josandonas&theme=tokyonight&hide_border=true';"
-  />
-  
-  <img 
-    height="160em" 
-    src="https://github-readme-stats.vercel.app/api/top-langs/?username=josandonas&layout=compact&theme=tokyonight&hide_border=true"
-  />
+  <img src="https://SEU_DOMINIO/github-stats?username=josandonas"/>
+</p>
+
+<p align="center">
+  <img src="https://streak-stats.demolab.com?user=josandonas&theme=tokyonight&hide_border=true"/>
+</p>
+
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=josandonas&theme=tokyo-night&hide_border=true"/>
 </p>
 
 ---
