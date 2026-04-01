@@ -46,9 +46,6 @@ Full Stack Developer • DevOps Mindset
   <img src="https://streak-stats.demolab.com?user=josandonas&theme=tokyonight&hide_border=true"/>
 </p>
 
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=josandonas&theme=tokyonight&no-frame=true&no-bg=true"/>
-</p>
 ---
 
 ## 📈 Atividade
