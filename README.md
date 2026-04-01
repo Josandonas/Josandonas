@@ -1,17 +1,17 @@
 <h1 align="center">🚀 José Sandonas</h1>
 
 <p align="center">
-Full Stack Developer • Backend Focus • DevOps Mindset
+Full Stack Developer • DevOps Mindset
 </p>
 
 ---
 
 ## 👨‍💻 Sobre mim
 
-- 🔧 Desenvolvedor focado em **Backend e Arquitetura**
-- ⚡ Especialista em **Node.js, Next.js e automações**
+- 🔧 Desenvolvedor focado em **Full Stack Developer**
+- ⚡ Especialista em **Laravel, Node.js, React, Vue, etc...  e automações**
 - 🧠 Forte atuação em **infraestrutura, deploy e performance**
-- 📊 Experiência com sistemas corporativos e análise de dados
+- 📊 Experiência com sistemas corporativos e análise de dados, implementação do zero à implantação de sistemas completos incluindo treinamentos
 
 ---
 
@@ -43,8 +43,16 @@ Full Stack Developer • Backend Focus • DevOps Mindset
 ## 📊 GitHub Stats
 
 <p align="center">
-  <img height="160em" src="https://github-readme-stats.vercel.app/api?username=josandonas&show_icons=true&theme=tokyonight&hide_border=true"/>
-  <img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=josandonas&layout=compact&theme=tokyonight&hide_border=true"/>
+  <img 
+    height="160em" 
+    src="https://github-readme-stats.vercel.app/api?username=josandonas&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true"
+    onerror="this.src='https://github-readme-streak-stats.herokuapp.com/?user=josandonas&theme=tokyonight&hide_border=true';"
+  />
+  
+  <img 
+    height="160em" 
+    src="https://github-readme-stats.vercel.app/api/top-langs/?username=josandonas&layout=compact&theme=tokyonight&hide_border=true"
+  />
 </p>
 
 ---
@@ -82,7 +90,7 @@ Full Stack Developer • Backend Focus • DevOps Mindset
   <a href="mailto:jsandonas@outlook.com">
     <img src="https://img.shields.io/badge/Email-000?style=for-the-badge&logo=gmail&logoColor=white"/>
   </a>
-  <a href="[[https://www.linkedin.com/in/SEU_LINKEDIN](https://www.linkedin.com/in/jos%C3%A9-manuel-carmen-sandonas-953861188/)]">
+  <a href="[https://www.linkedin.com/in/SEU_LINKEDIN](https://www.linkedin.com/in/jos%C3%A9-manuel-carmen-sandonas-953861188/)]">
     <img src="https://img.shields.io/badge/LinkedIn-000?style=for-the-badge&logo=linkedin&logoColor=white"/>
   </a>
 </p>
